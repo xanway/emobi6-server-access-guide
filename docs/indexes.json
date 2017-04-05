@@ -1,0 +1,45 @@
+{
+"contains": [
+	{
+		"group": "ExMobi6服务端入门教程",
+		"contains": [
+			{
+				"subject": "术语、定义和缩略语",
+				"mdlink": "term_define_abbreviations"
+			},
+			{
+				"subject": "服务推荐技术手段",
+				"mdlink": "service_technical"
+			},
+			{
+				"subject": "原理和架构",
+				"mdlink": "principle_architecture"
+			},
+			{
+				"subject": "服务包介绍",
+				"mdlink": "service_package"
+			},
+			{
+				"subject": "SSM框架整合搭建",
+				"mdlink": "SSM"
+			},
+			{
+				"subject": "服务HelloWorld",
+				"mdlink": "helloworld"
+			},
+			{
+				"subject": "服务开发API",
+				"mdlink": "service_api"
+			},
+			{
+				"subject": "典型场景示例",
+				"mdlink": "typic_example"
+			},
+			{
+				"subject": "服务与管理端集成场景介绍",
+				"mdlink": "service_mng"
+			}
+		 ]
+        }
+    ]
+}
