@@ -34,10 +34,6 @@
 			{
 				"subject": "微服务鉴权SDK集成",
 				"mdlink": "authsdk"
-			},
-			{
-				"subject": "服务与管理端集成场景介绍",
-				"mdlink": "service_mng"
 			}
 		 ]
         }
