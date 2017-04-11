@@ -120,7 +120,7 @@ alert("登录成功");
 
 <h3 id="cid_1_1">集成微服务鉴权SDK</h3>  
 
-请参考[微服务鉴权SDK集成章节]()
+请参考[微服务鉴权SDK集成章节](https://gitdocument.exmobi.cn/exmobi6-server-access-guide/authsdk.html)
 
 <h3 id="cid_1_2">平台接口调用示例</h3>  
 
