@@ -2,7 +2,7 @@
 
 ----------
 
-<h2 id="cid_0">/addresslist/addrlist/getaddrlist.do?departmentid=1：查询部门通讯录</h2>  
+<h2 id="cid_0">查询部门通讯录</h2>  
 
 <h3 id="cid_0_0">说明</h3>  
 
@@ -233,7 +233,7 @@ GET
 }
 ```  
 
-<h2 id="cid_1">/addresslist/userInfo/getUserInfo.do?userId=xxx：查询用户信息 </h2>  
+<h2 id="cid_1">查询用户信息 </h2>  
 
 <h3 id="cid_1_0">说明</h3>  
 
@@ -396,7 +396,7 @@ GET
 }
 ```  
 
-<h2 id="cid_2">/addresslist/addrlist/getaddrlist.do/addresslist/userFavicon/uploadUserFavicon.do：客户端上传头像</h2>  
+<h2 id="cid_2">客户端上传头像</h2>  
 
 <h3 id="cid_2_0">说明</h3>  
 
@@ -465,7 +465,7 @@ POST
 }
 ```  
 
-<h2 id="cid_3">/addresslist/userFavicon/downloadUserFavicon.do?userId=xxx：客户端下载头像</h2>  
+<h2 id="cid_3">客户端下载头像</h2>  
 
 <h3 id="cid_3_0">说明</h3>  
 

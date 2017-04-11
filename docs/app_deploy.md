@@ -37,7 +37,9 @@
 
 ![上传打包应用安装包](image/appdeploy_4143.png)  
 
-<h2 id="cid_1">原生应用(Android应用，IOS企业应用，iOS Appstore)</h2>  
+<h2 id="cid_1">原生应用</h2>  
+
+原生应用包括Android应用，IOS企业应用，iOS Appstore
 
 <h3 id="cid_1_0">创建无包应用，申请访问授权码</h3>  
 

@@ -269,7 +269,7 @@ GET/POST
 
 根据实际业务确定。
 
-<h2 id="cid_2">/d：应用下载页面</h2>  
+<h2 id="cid_2">应用下载页面</h2>  
 
 <h3 id="cid_2_0">说明</h3> 
 
@@ -291,7 +291,7 @@ GET
 
 应用包字节流
 
-<h2 id="cid_3">/static：静态文件地址</h2>  
+<h2 id="cid_3">静态文件地址</h2>  
 
 <h3 id="cid_3_0">说明</h3> 
 
@@ -313,7 +313,7 @@ GET
 
 静态文件体
 
-<h2 id="cid_4">/api/auth：用户登录接口</h2>  
+<h2 id="cid_4">用户登录接口</h2>  
 
 <h3 id="cid_4_0">说明</h3> 
 
@@ -424,7 +424,7 @@ GET
 
 ```  
 
-<h2 id="cid_5">/api/pwupdate：用户密码修改接口</h2>  
+<h2 id="cid_5">用户密码修改接口</h2>  
 
 <h3 id="cid_5_0">说明</h3> 
 
@@ -495,7 +495,7 @@ GET
    </tr>
 </table>     
 
-<h2 id="cid_6">/api/app/applatestversion：应用最新版本查询接口</h2>  
+<h2 id="cid_6">应用最新版本查询接口</h2>  
 
 <h3 id="cid_6_0">说明</h3> 
 
@@ -656,7 +656,7 @@ code取值8205/8206/8207，表示没有更高的版本，或者升级策略开�
 }
 ```
 
-<h2 id="cid_7">/api/app/getapplist：查询应用列表请求</h2>  
+<h2 id="cid_7">查询应用列表请求</h2>  
 
 <h3 id="cid_7_0">说明</h3>  
 
@@ -914,7 +914,7 @@ ApplicationInfo对象
 }
 ```  
 
-<h2 id="cid_8">/api/app/getappdetails：查询应用详情请求</h2>  
+<h2 id="cid_8">查询应用详情请求</h2>  
 
 <h3 id="cid_8_0">说明</h3>  
 
@@ -1118,7 +1118,7 @@ AppCommentInfo对象
 }
 ```  
 
-<h2 id="cid_9">/api/app/getappcategorylist：查询应用分类请求</h2>  
+<h2 id="cid_9">查询应用分类请求</h2>  
 
 <h3 id="cid_9_0">说明</h3>  
 
@@ -1225,7 +1225,7 @@ ApplicationCategory对象
 }
 ```  
 
-<h2 id="cid_10">/api/app/getapplistbycategory：根据分类查询应用列表请求</h2>  
+<h2 id="cid_10">根据分类查询应用列表请求</h2>  
 
 <h3 id="cid_10_0">说明</h3>  
 
@@ -1476,7 +1476,7 @@ ApplicationInfo对象
 
 ```
 
-<h2 id="cid_11">/api/app/getapplistforkeyword：根据关键字查询应用请求</h2>  
+<h2 id="cid_11">根据关键字查询应用请求</h2>  
 
 <h3 id="cid_11_0">说明</h3>  
 
@@ -1704,7 +1704,7 @@ ApplicationInfo对象
 }
 ```  
 
-<h2 id="cid_12">/api/app/getappupdatelist：查询应用升级列表请求</h2>  
+<h2 id="cid_12">查询应用升级列表请求</h2>  
 
 <h3 id="cid_12_0">说明</h3>  
 
@@ -2044,7 +2044,7 @@ UserParam对象
 }
 ```
 
-<h2 id="cid_13">/api/app/checkappinfo：应用信息确认请求</h2>  
+<h2 id="cid_13">应用信息确认请求</h2>  
 
 <h3 id="cid_13_0">说明</h3>  
 
@@ -2155,7 +2155,7 @@ POST
    </tr>
 </table>  
 
-<h2 id="cid_14">/api/app/getappevaluation：获取应用使用评价请求</h2>  
+<h2 id="cid_14">获取应用使用评价请求</h2>  
 
 <h3 id="cid_14_0">说明</h3>  
 
@@ -2312,7 +2312,7 @@ AppCommentInfo对象
 }
 ```
 
-<h2 id="cid_15">/api/app/appevaluation：应用使用评价请求</h2>  
+<h2 id="cid_15">应用使用评价请求</h2>  
 
 <h3 id="cid_15_0">说明</h3>  
 
@@ -2429,7 +2429,7 @@ POST
 }
 ```  
 
-<h2 id="cid_16">/api/app/startimage：应用启动图片</h2>  
+<h2 id="cid_16">应用启动图片</h2>  
 
 <h3 id="cid_16_0">说明</h3>  
 
@@ -2544,7 +2544,7 @@ Json数据，无启动图片
  }
 ```  
 
-<h2 id="cid_17">/api/app/startnotification：应用启动通知消息</h2>  
+<h2 id="cid_17">应用启动通知消息</h2>  
 
 <h3 id="cid_17_0">说明</h3>  
 
@@ -2633,7 +2633,7 @@ Json数据，无通知图片
  }
 ```  
 
-<h2 id="cid_18">/api/app/paramconfig：应用参数配置</h2>  
+<h2 id="cid_18">应用参数配置</h2>  
 
 <h3 id="cid_18_0">说明</h3>  
 
@@ -2707,7 +2707,7 @@ Json数据，返回启动通知内容
  }
 ```  
 
-<h2 id="cid_19">/sso：sso校验接口</h2>  
+<h2 id="cid_19">校验接口</h2>  
 
 <h3 id="cid_19_0">说明</h3>  
 
