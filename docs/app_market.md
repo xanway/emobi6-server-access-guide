@@ -2,7 +2,7 @@
 
 ----------
 
-平台提供了支持应用超市的开发接口，相关接口参照[ExMobi-server6.x平台接口定义章节]()。  
+平台提供了支持应用超市的开发接口，相关接口参照[ExMobi-server6.x平台接口定义章节](https://gitdocument.exmobi.cn/exmobi6-server-access-guide/access_define.html)。  
 
 ExMobi应用在开发过程中快捷的实现应用超市的功能，只需要在页面中使用工具类**AppUtil.setSettingInfo**脚本进行初始化和appworkbench工作台控件即可。  
 

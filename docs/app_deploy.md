@@ -41,7 +41,7 @@
 
 <h3 id="cid_1_0">创建无包应用，申请访问授权码</h3>  
 
-操作步骤请参考[ExMobi应用的无包创建及申请访问授权码](https://gitdocument.exmobi.cn/exmobi6server-accessguide/app_deploy.html#cid_0_0)流程，选择应用类型时请选择Android应用，IOS企业应用或iOS Appstore其中一种。 
+操作步骤请参考[ExMobi应用的无包创建及申请访问授权码](https://gitdocument.exmobi.cn/exmobi6-server-access-guide/app_deploy.html#cid_0_0)流程，选择应用类型时请选择Android应用，IOS企业应用或iOS Appstore其中一种。 
 
 <h3 id="cid_1_1">替换全局变量</h3>  
 

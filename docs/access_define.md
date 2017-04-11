@@ -2587,9 +2587,6 @@ GET
       <td>否 </td>
       <td>ExMobi应用在EDN打包产生的clientid值<br/><font color="red">ExMobi应用时，该字段必选，其他类型可选</font><br/>取值参考：ExMobi应用的“EDN包管理”页面中客户端ID信息</td>
    </tr>
-   <tr>
-      <td></td>
-   </tr>
 </table>
 
 <h3 id="cid_17_4">返回数据</h3>  
@@ -2614,9 +2611,6 @@ GET
       <td>content</td>
       <td>String</td>
       <td>通知内容</td>
-   </tr>
-   <tr>
-      <td></td>
    </tr>
 </table>  
 

@@ -52,7 +52,7 @@ var fhsdk = {
 
 <h3 id="cid_0_2">平台接口调用示例</h3>  
 
-参照[]ExMobi-server6.x平台接口定义章节]()根据平台接口协议进行调用对应的接口；
+参照[ExMobi-server6.x平台接口定义章节](https://gitdocument.exmobi.cn/exmobi6-server-access-guide/access_define.html)根据平台接口协议进行调用对应的接口；
 
 以下为一个平台用户登录鉴权调用示例（在页面中引入了上一小节定义的fhsdk.js）：
 
@@ -116,14 +116,14 @@ alert("登录成功");
 
 <h3 id="cid_1_0">申请开发访问授权码</h3>  
 
-请参考[申请开发访问授权码章节](https://gitdocument.exmobi.cn/exmobi6server-accessguide/app_access.html#cid_0_0)
+请参考[申请开发访问授权码章节](https://gitdocument.exmobi.cn/exmobi6-server-access-guide/app_access.html#cid_0_0)
 
 <h3 id="cid_1_1">集成微服务鉴权SDK</h3>  
 
-请参考[微服务鉴权SDK集成章节](https://gitdocument.exmobi.cn/exmobi6server-accessguide/app_access.html#cid_0_0)
+请参考[微服务鉴权SDK集成章节]()
 
 <h3 id="cid_1_2">平台接口调用示例</h3>  
 
 首先：调用微服务鉴权SDK相关章节中的API进行初始化配置。  
 
-其次：参照[ExMobi-server6.x平台接口定义章节]()根据平台接口协议进行调用对应的接口。
+其次：参照[ExMobi-server6.x平台接口定义章节](https://gitdocument.exmobi.cn/exmobi6-server-access-guide/access_define.html)根据平台接口协议进行调用对应的接口。
