@@ -33,7 +33,7 @@ var IMConfig = {
   
 3.调用通讯录相关接口，获取组织架构及每个人员的IM账号信息，参照《ExMobi客户端二次开发文档》相关章节：   
 
-> 7.4 <fhimchat>烽火单聊控件  
-> 7.5 <fhimgroupchat>烽火IM群聊控件  
-> 7.6 <fhimlist>烽火IM列表  
-> 12.20 FhImUtil烽火IM工具类  
+> 7.4 <fhimchat>先维单聊控件  
+> 7.5 <fhimgroupchat>先维IM群聊控件  
+> 7.6 <fhimlist>先维IM列表  
+> 12.20 FhImUtil先维IM工具类  

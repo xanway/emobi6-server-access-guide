@@ -27,7 +27,7 @@ SDK下载地址[ExMobi6微服务鉴权AndroidSDK](https://www.exmobi.cn/resource
 </manifest>
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
 </manifest>
-```  
+```
 
 说明：  
 
@@ -61,7 +61,7 @@ SDK下载地址[ExMobi6微服务鉴权AndroidSDK](https://www.exmobi.cn/resource
 ```java
 import com.fiberhome.exmobi.AccessAgent;
 import com.fiberhome.exmobi.OnAccessListener;
-```  
+```
 
 2.在程序启动后需要先调用AccessAgent.init(accessCode)方法，初始化SDK配置信息；    
 
@@ -122,7 +122,7 @@ SDK下载地址：[ExMobi6微服务鉴权IosSDK](https://www.exmobi.cn/resource/
 1.将SDK目录下exmobi6.framework拖入工程。默认情况下XCode会自动添加引用。如果有引用问题，可以在Build Settings->Framework Search Paths中添加对应路径。  
 
 2.将SDK目录下CSAgent文件夹下的依赖文件加入工程。CSAgent目录下包含以下两个目录文件
-AFNetworking文件为3.0版本。ExMobiRsa为烽火内部共享库，该目录下的Libcrypto.a与libssl.a为openssl标准库。  
+AFNetworking文件为3.0版本。ExMobiRsa为先维内部共享库，该目录下的Libcrypto.a与libssl.a为openssl标准库。  
 
 <h3 id="cid_1_2">接口调用</h3>  
 
